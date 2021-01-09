@@ -1,0 +1,15 @@
+This is a usable proof of concept.
+
+Much of the code and ideas to get this running were taken from the following article.
+
+https://glyph.twistedmatrix.com/2020/08/nice-animations-with-twisted-and-pygame.html
+
+There's a link to the code in the article itself.
+
+Q: How do I use this?
+
+A: One person runs the server and the other runs the client. The ports need to match. I think the settings.py need to match too.
+
+Q: Ports and IP match, why doesn't it work?
+
+A: You might need to do something with port forwarding.
